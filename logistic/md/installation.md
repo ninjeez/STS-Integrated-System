@@ -66,3 +66,8 @@
 		event.target && event.target.blur && event.target.blur();
 		
 ### For Windows Systems
+
+#### MEAN stack framework setup
+
+1. Install MongoDB: Go to http://www.mongodb.org/downloads and download the latest version of MongoDB for Windows, which should be a plain zip file. Once the download is done, extract the contents of the zip file to a memorable directory, such as ‘c:\mongodb’.
+
