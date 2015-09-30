@@ -64,3 +64,5 @@
 2. Please comment out the line in Angular-Touch javascript file (`public/lib/angular-touch/angular-touch.js`) to ensure input fields will focus correctly in the walk-in service modal with mobile devices
 
 		event.target && event.target.blur && event.target.blur();
+		
+### For Windows Systems
